@@ -9,7 +9,7 @@ keywords:
   - orchestrator
   - bitpoke
   - database
-version: 0.0.0
+version: 0.6.2.2
 home: https://www.bitpoke.io/mysql-operator/
 sources:
   - https://github.com/bitpoke/mysql-operator.git
